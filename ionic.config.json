@@ -1,0 +1,7 @@
+{
+  "name": "quito",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
